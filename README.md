@@ -1,2 +1,2 @@
 # IBM_Data_Scientist
-IBM_Data_Scientist DEBI Diploma
+This repo is for my tasks and projects in IBM_Data_Scientist DEBI Diploma supervised by Eng Sherif Said
